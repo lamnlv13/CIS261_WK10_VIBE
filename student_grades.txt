@@ -1,0 +1,2 @@
+name|id|test1|test2|test3|average|grade
+Sue Johnson|01111|87.00|45.00|90.00|74.00|C
